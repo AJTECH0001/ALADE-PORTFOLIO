@@ -31,13 +31,13 @@ function myMenuFunction(){
   }
   
   /* ----- TYPING EFFECT ----- */
-  let typingEffect = new Typed(".typedText",{
-    strings : ["Blockchain Developer","IT ENGINEER"],
-    loop : true,
-    typeSpeed : 100,
-    backSpeed : 80,
-    backDelay : 2000
-  })
+  // let typingEffect = new Typed(".typedText",{
+  //   strings : ["Blockchain Developer"],
+  //   loop : true,
+  //   typeSpeed : 100,
+  //   backSpeed : 80,
+  //   backDelay : 2000
+  // })
   
   /* ----- ## -- SCROLL REVEAL ANIMATION -- ## ----- */
   const sr = ScrollReveal({
